@@ -1,4 +1,4 @@
-Hello
+Hello,
 I might post my projects on here
 I am currently learning python
 as well as experimenting with Kali
